@@ -1,0 +1,31 @@
+# Core Data Science
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+# Text Processing & NLP
+nltk
+spacy
+gensim
+regex
+
+# Document Parsing
+pdfminer.six
+python-docx
+
+# Web Application
+streamlit
+altair
+watchdog
+
+# Utilities
+joblib
+tqdm
+python-multipart
+pickle-mixin
+
+# Machine Learning Extras (Optional, unpinned for 3.13 compatibility)
+xgboost
